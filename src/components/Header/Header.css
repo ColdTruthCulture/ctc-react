@@ -2,9 +2,9 @@
   background-color: black !important;
 }
 
-#collapsible-nav-dropdown {
-  padding-top: 0;
-  padding-bottom: 0;
+#farms-nav-dropdown {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   border-radius: 0;
   font-weight: bold;
 }
