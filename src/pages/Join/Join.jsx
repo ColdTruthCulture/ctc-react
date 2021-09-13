@@ -24,7 +24,7 @@ const Join = () => {
             <p className="content-text">
               {/* <strong> */}
               Looking to learn more about Cold Truth Culture? No matter where
-              you’re from and what's your skills are, you can always become part
+              you’re from and what your skills are, you can always become part
               of the Community just by joining our social media channels. We
               invite you to explore with us!
               {/* </strong> */}
