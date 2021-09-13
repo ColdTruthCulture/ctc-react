@@ -116,21 +116,21 @@ const GetStarted = () => {
                             target="_blank"
                             rel="noreferrer"
                           >
-                            Music NFT Farm
+                            Music
                           </Dropdown.Item>
                           <Dropdown.Item
                             href="https://app.coldtruthculture.io/farm-view.html?address=0x18D57C5Dfe2e5839AC81630bE7dF359F2d4AE0A6"
                             target="_blank"
                             rel="noreferrer"
                           >
-                            Music LP NFT Farm
+                            Music LP
                           </Dropdown.Item>
                           <Dropdown.Item
                             href="https://app.coldtruthculture.io/farm-view.html?address=0x5d004F2576465aEa90328bCcC219cC8b4873cC53"
                             target="_blank"
                             rel="noreferrer"
                           >
-                            NSFW NFT Farm
+                            NSFW
                           </Dropdown.Item>
                         </Dropdown.Menu>
                       </Dropdown>
