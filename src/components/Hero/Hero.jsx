@@ -19,7 +19,7 @@ const Hero = () => {
               </h2>
 
               <Button
-                href="https://unifty.io/xdai/market-view.html?location=0x3DC29eafeE1e21A122ad17173F927980D1863529"
+                href="https://app.coldtruthculture.io/market-view.html?location=0x3DC29eafeE1e21A122ad17173F927980D1863529"
                 target="_blank"
                 rel="noreferrer"
                 className="light-button mt-4"
