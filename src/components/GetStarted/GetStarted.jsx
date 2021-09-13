@@ -15,7 +15,7 @@ const GetStarted = () => {
             <Col>
               <h2>Get Started</h2>
               <p className="content-text pb-3">
-                Platform gates to Cold Truth Culture NFT farms and $COLD token
+                Set up your Metamask wallet and extension before navigating to the farms on the xDAI chain
               </p>
             </Col>
           </Row>
