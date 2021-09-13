@@ -42,7 +42,7 @@ const Footer = () => {
                     <Link to="/cold">$COLD</Link>
                   </Col>
                   <Col xs={6}>
-                    <Link to="/education">Education</Link>
+                    <Link to="/join">Join Us</Link>
                   </Col>
                   <Col xs={6}>
                     <Link to="/rewards">Rewards</Link>
@@ -68,7 +68,7 @@ const Footer = () => {
                 <h5>We invite you</h5>
                 <p className="content-text">
                   Looking to learn more about Cold Truth Culture? No matter
-                  where you’re from and what's your skills are, you can always
+                  where you’re from and what your skills are, you can always
                   become part of the Community just by joining our social media
                   channels. We invite you to explore with us!
                 </p>
