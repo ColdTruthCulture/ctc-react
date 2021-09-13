@@ -140,10 +140,10 @@ const GetStarted = () => {
                         target="_blank"
                         rel="noreferrer"
                       >
-                        <img src={unifty} alt="unifty" />
-                        <Card.Title className="mt-3">Unifty</Card.Title>
+                        <img src={CTC_logo_green} alt="unifty" />
+                        <Card.Title className="mt-3">NFTs</Card.Title>
                         <Card.Text className="content-text">
-                          Acquire NFTs on Unifty
+                          CTC NFT Farms
                         </Card.Text>
                       </a>
                     </Card.Body>
