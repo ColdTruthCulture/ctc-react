@@ -50,7 +50,7 @@ const Rewards = () => {
                 <tr>
                   <td>
                     <a
-                      href="https://app.coldtruthculture/farm-view.html?address=0x4C0dB34dDfe13C86863c363b03d933f80599a3BD"
+                      href="https://app.coldtruthculture.io/farm-view.html?address=0x4C0dB34dDfe13C86863c363b03d933f80599a3BD"
                       target="_blank"
                       rel="noreferrer"
                       style={{textDecoration:'underline'}}
@@ -63,7 +63,7 @@ const Rewards = () => {
                 <tr>
                   <td>
                     <a
-                      href="https://app.coldtruthculture/farm-view.html?address=0x305dc5048d9680d8b93a60Fd9f0054Bb0F6C5B19"
+                      href="https://app.coldtruthculture.io/farm-view.html?address=0x305dc5048d9680d8b93a60Fd9f0054Bb0F6C5B19"
                       target="_blank"
                       rel="noreferrer"
                       style={{textDecoration:'underline'}}
@@ -76,7 +76,7 @@ const Rewards = () => {
                 <tr>
                   <td>
                     <a
-                      href="https://app.coldtruthculture/farm-view.html?address=0x5d004F2576465aEa90328bCcC219cC8b4873cC53"
+                      href="https://app.coldtruthculture.io/farm-view.html?address=0x5d004F2576465aEa90328bCcC219cC8b4873cC53"
                       target="_blank"
                       rel="noreferrer"
                       style={{textDecoration:'underline'}}
@@ -89,7 +89,7 @@ const Rewards = () => {
                 <tr>
                   <td>
                     <a
-                      href="https://app.coldtruthculture/farm-view.html?address=0x18D57C5Dfe2e5839AC81630bE7dF359F2d4AE0A6"
+                      href="https://app.coldtruthculture.io/farm-view.html?address=0x18D57C5Dfe2e5839AC81630bE7dF359F2d4AE0A6"
                       target="_blank"
                       rel="noreferrer"
                       style={{textDecoration:'underline'}}
@@ -102,7 +102,7 @@ const Rewards = () => {
                 <tr>
                   <td>
                     <a
-                      href="https://app.coldtruthculture/xdai/farm-view.html?address=0xFcf213136b9D48d210AA79B7F372e6e63BDF2737"
+                      href="https://app.coldtruthculture.io/farm-view.html?address=0xFcf213136b9D48d210AA79B7F372e6e63BDF2737"
                       target="_blank"
                       rel="noreferrer"
                       style={{textDecoration:'underline'}}
@@ -115,7 +115,7 @@ const Rewards = () => {
                 <tr>
                   <td>
                     <a
-                      href="https://app.coldtruthculture/farm-view.html?address=0xb474F405F0DF84fbe57751Af0CB1AE534f5639b5"
+                      href="https://app.coldtruthculture.io/farm-view.html?address=0xb474F405F0DF84fbe57751Af0CB1AE534f5639b5"
                       target="_blank"
                       rel="noreferrer"
                       style={{textDecoration:'underline'}}
@@ -128,7 +128,7 @@ const Rewards = () => {
                 <tr>
                   <td>
                     <a
-                      href="https://app.coldtruthculture/farm-view.html?address=0x6Db5CfE5c9107C348cB863B64f8A2066CCC68982"
+                      href="https://app.coldtruthculture.io/farm-view.html?address=0x6Db5CfE5c9107C348cB863B64f8A2066CCC68982"
                       target="_blank"
                       rel="noreferrer"
                       style={{textDecoration:'underline'}}
