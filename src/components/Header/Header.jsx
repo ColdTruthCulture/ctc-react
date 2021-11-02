@@ -44,16 +44,10 @@ const Header = (props) => {
             className="my-auto mx-auto pl-1 pr-2"
           >
             <NavDropdown.Item
-              href="https://docs.google.com/forms/d/e/1FAIpQLScK6PevtdYqEQj_MCdLhZHEHRQq1K1ESe8uy79DIcZGDTtSxw/viewform"
+              href="https://gardens-xdai.1hive.org/#/garden/0x1baa8fd650c870fcfc773dd26e92b27b5b80d415"
               target="_blank"
             >
-              Submit Art
-            </NavDropdown.Item>
-            <NavDropdown.Item
-              href="https://docs.google.com/forms/d/e/1FAIpQLSdRAzibIq_W8K4i-Pbx4S-P8JgMFizfXcL8M8xP1VBaz0Nykg/viewform"
-              target="_blank"
-            >
-              Request Art
+              Governance / Gardens DAO
             </NavDropdown.Item>
             <NavDropdown.Item
               href="https://discord.gg/6sdT77HP9u"
