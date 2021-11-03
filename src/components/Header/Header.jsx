@@ -47,7 +47,7 @@ const Header = (props) => {
               href="https://gardens-xdai.1hive.org/#/garden/0x1baa8fd650c870fcfc773dd26e92b27b5b80d415"
               target="_blank"
             >
-              Governance / Gardens DAO
+              Governance
             </NavDropdown.Item>
             <NavDropdown.Item
               href="https://discord.gg/6sdT77HP9u"
