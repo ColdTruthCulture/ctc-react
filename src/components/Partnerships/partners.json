@@ -1,8 +1,8 @@
 [
   {
-    "name": "Unifty",
+    "name": "Rarity.Garden",
     "image": "unifty.png",
-    "link": "https://unifty.io/"
+    "link": "https://rarity.garden/"
   },
   {
     "name": "1Hive",
@@ -10,9 +10,9 @@
     "link": "https://1hive.org/"
   },
   {
-    "name": "xDAI",
-    "image": "xdai.png",
-    "link": "https://www.xdaichain.com/"
+    "name": "Gardens",
+    "image": "gardens-dao.png",
+    "link": "https://gardens.1hive.org/"
   },
   {
     "name": "Agave",
